@@ -17,11 +17,6 @@ Welcome to ECMpy2.0's documentation!
    5.EcModel_Analysis/index
    6.EcModel_ME/index
    7.One_click_modeling/index
-   AutoPACMEN_function
-   ECMpy_function
-   get_ecGEM_onestop
-   model
-   prediction_for_input
 
 Indices and tables
 ==================
