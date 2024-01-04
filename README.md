@@ -1,1 +1,1 @@
-# ECMpy2-RTD
+# ECMpy2
