@@ -1,9 +1,9 @@
-.. ECMpy2.0-RTD documentation master file, created by
+.. ECMpy2.0 documentation master file, created by
    sphinx-quickstart on Tue Jan  2 12:37:01 2024.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to ECMpy2.0-RTD's documentation!
+Welcome to ECMpy2.0's documentation!
 ========================================
 
 .. toctree::
